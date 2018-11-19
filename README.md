@@ -13,7 +13,7 @@ próprias ideias.
 =======================>>> TECNOLOGIAS UTILIZADAS <<< =================================
 No desenvolvimento do presente projeto foram utilizadas as tecnologias: HTML, CSS e Python. Igualmente utilizou-se o Photoshop para o tratamento breve da imagem de logo. 
 
-=========================>>> O QUE FOI ADICIONADO <<< ===================================
+======================>>> O QUE FOI ADICIONADO <<< ===================================
 O conteúdo original não continha menu, slide ou rodapé, desta forma, fora acrescentado no 
 código HTML inserido dentro do arquivo 'fresh_tomatoes.py' o código HTML responsável para a
 criação destas três novas adições. De igual forma, houve manipulação via CSS do código, de 
@@ -22,7 +22,7 @@ classe(".") e ID("#" - Carousel, neste caso dispensou-se conteúdo interno uma v
 por si só se adaptou perfeitamente ao conteúdo HTML). Foi criada também a classe Movie no 
 arquivo media.py de forma a suportar os dados apresentados na página principal.
 
-======================>>> MUDANÇA - VERSÃO 1.0 <<< ======================================
+==================>>> MUDANÇA - VERSÃO 1.0 <<< ======================================
 1. Body{
 	A cor do backround foi alterada para preto no html;
 
@@ -59,7 +59,7 @@ arquivo media.py de forma a suportar os dados apresentados na página principal.
 	Thiago H.R. Costa - Criado em 19/11/2018 como primeiro projeto para o curso da Udacity
 	NanoDegree de Desenvolvimento Web Full Stack
  
-========================>>> COMO UTILIZAR OU ABRIR O ARQUIVO <<<==============================
+==================>>> COMO UTILIZAR OU ABRIR O ARQUIVO <<<==============================
 
 DOWNLOAD: Para ambos os modos de acesso abaixo, o usuário deverá efeutar o download do arquivo
 disponibilizado, e em seguida, extrair seu conteúdo para uma pasta qualquer desejada.
