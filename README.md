@@ -10,10 +10,10 @@ site, foi desenvolvido incrementando os requisitos originalmente fixados pela Ud
 elaboração do projeto, tendo como base a permissão para que o aluno pudesse desenvolver suas
 próprias ideias.
 
-=============================>>> TECNOLOGIAS UTILIZADAS <<< =================================
+=======================>>> TECNOLOGIAS UTILIZADAS <<< =================================
 No desenvolvimento do presente projeto foram utilizadas as tecnologias: HTML, CSS e Python. Igualmente utilizou-se o Photoshop para o tratamento breve da imagem de logo. 
 
-=============================>>> O QUE FOI ADICIONADO <<< ===================================
+=========================>>> O QUE FOI ADICIONADO <<< ===================================
 O conteúdo original não continha menu, slide ou rodapé, desta forma, fora acrescentado no 
 código HTML inserido dentro do arquivo 'fresh_tomatoes.py' o código HTML responsável para a
 criação destas três novas adições. De igual forma, houve manipulação via CSS do código, de 
@@ -22,7 +22,7 @@ classe(".") e ID("#" - Carousel, neste caso dispensou-se conteúdo interno uma v
 por si só se adaptou perfeitamente ao conteúdo HTML). Foi criada também a classe Movie no 
 arquivo media.py de forma a suportar os dados apresentados na página principal.
 
-==========================>>> MUDANÇA - VERSÃO 1.0 <<< ======================================
+======================>>> MUDANÇA - VERSÃO 1.0 <<< ======================================
 1. Body{
 	A cor do backround foi alterada para preto no html;
 
