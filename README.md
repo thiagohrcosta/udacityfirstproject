@@ -4,7 +4,7 @@
 
 #Autor: Thiago H.R. Costa - 2018
 
-==================================>>>RESUMO<<<===============================================
+=============================>>>RESUMO<<<===============================================
 Primeiro projeto apresentado no Curso NanoDegree - Desenvolvimento Web da Udacity, o presente
 site, foi desenvolvido incrementando os requisitos originalmente fixados pela Udacity para a
 elaboração do projeto, tendo como base a permissão para que o aluno pudesse desenvolver suas
@@ -14,6 +14,7 @@ próprias ideias.
 No desenvolvimento do presente projeto foram utilizadas as tecnologias: HTML, CSS e Python. Igualmente utilizou-se o Photoshop para o tratamento breve da imagem de logo. 
 
 ======================>>> O QUE FOI ADICIONADO <<< ===================================
+
 O conteúdo original não continha menu, slide ou rodapé, desta forma, fora acrescentado no 
 código HTML inserido dentro do arquivo 'fresh_tomatoes.py' o código HTML responsável para a
 criação destas três novas adições. De igual forma, houve manipulação via CSS do código, de 
