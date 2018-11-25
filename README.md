@@ -1,9 +1,7 @@
-# Projeto: Site de trailer de filmes
-
-**#Instituição: Udacity
-#Curso: NanoDegree - Desenvolvimento Web Full Stack
-
-**#Autor: Thiago H.R. Costa - 2018 
+## Projeto: Site de trailer de filmes
+Instituição: Udacity
+Curso: NanoDegree - Desenvolvimento Web Full Stack
+Autor: Thiago H.R. Costa - 2018 
 
 ============================>>>RESUMO<<<=========================================
 Primeiro projeto apresentado no Curso NanoDegree - Desenvolvimento Web da Udacity, o presente
