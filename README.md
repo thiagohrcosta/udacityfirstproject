@@ -21,7 +21,7 @@ classe(".") e ID("#" - Carousel, neste caso dispensou-se conteúdo interno uma v
 por si só se adaptou perfeitamente ao conteúdo HTML). Foi criada também a classe Movie no 
 arquivo media.py de forma a suportar os dados apresentados na página principal.
 
-## ALTERAÇÕES NA VERSÃO 1.0
+### ALTERAÇÕES NA VERSÃO 1.0
 1. Body{
 	A cor do backround foi alterada para preto no html;
 
@@ -57,7 +57,15 @@ arquivo media.py de forma a suportar os dados apresentados na página principal.
 8. Autor
 	Thiago H.R. Costa - Criado em 19/11/2018 como primeiro projeto para o curso da Udacity
 	NanoDegree de Desenvolvimento Web Full Stack
- 
+
+### ALTERAÇÕES SIGNIFICATIVAS - VERSÃO 1.1
+Após revisão do código os arquivos foram alterados da seguinte forma:
+
+1. Adequação ao formato PEP8 (http://pep8online.com/checkresult) dos arquivos "media.py" e "enterntainment_center.py";
+2. Adição do conteúdo da **class Movie (movie_storyline)** no código HTML inserido dentro de "fresh_tomatoes.py" de forma que o conteúdo da classe fosse adicionado logo abaixo do nome do filme. Utilizou-se a função **"format"** para manipular string e inserir tal recurso.
+3. Demais alterações estéticas no HTML de forma a adequar a estrutura da página com base nas novas mudanças.
+
+
 ## COMO UTILIZAR OU ABRIR O ARQUIVO
 
 DOWNLOAD: Para ambos os modos de acesso abaixo, o usuário deverá efeutar o download do arquivo
