@@ -69,8 +69,8 @@ O acesso via Python deve ser realizado da seguinte forma após extrair o conteú
 
 *Iniciar o IDLE (Python GUI) em seu computador;
 *Clicar em "File" e posteriormente em "Open";
-* Abrir o arquivo "entertainment_center.py";
-* Uma vez aberto o arquivo, clicar em "Run" e "Run Module", ou simplesmente apertar F5;
+*Abrir o arquivo "entertainment_center.py";
+*Uma vez aberto o arquivo, clicar em "Run" e "Run Module", ou simplesmente apertar F5;
 *O Python automaticamente abrirá o seu navegador com a página do Fresh Tomatoes Movie Trailer.
 
 ### ACESSO DIRETO VIA COMPUTADOR - SEM PYTHON
@@ -79,9 +79,7 @@ Caso o usuário não tenha o Python instalado em seu computador, deverá seguir 
 instruções após efetuar o download do arquivo e extraí-lo para uma pasta desejada dentro de seu
 computador. 
 
-a) Acessar a pasta de destino;
-b) Procurar pelo arquivo "fresh_tomatoes.html"
-c) Clicar neste arquivo duas vezes, ou clicar uma vez com o botão direito e abrí-lo no navegador
-   desejado.
-d) O arquivo será automaticamente aberto no navegador padrão ou escolhido pelo usuário, exibindo
-   o site Fresh Tomatoes Movie Trailer
+*Acessar a pasta de destino;
+*Procurar pelo arquivo "fresh_tomatoes.html"
+*Clicar neste arquivo duas vezes, ou clicar uma vez com o botão direito e abrí-lo no navegador desejado;
+*O arquivo será automaticamente aberto no navegador padrão ou escolhido pelo usuário, exibindo o site Fresh Tomatoes Movie Trailer
