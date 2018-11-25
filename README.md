@@ -63,7 +63,7 @@ arquivo media.py de forma a suportar os dados apresentados na página principal.
 DOWNLOAD: Para ambos os modos de acesso abaixo, o usuário deverá efeutar o download do arquivo
 disponibilizado, e em seguida, extrair seu conteúdo para uma pasta qualquer desejada.
 
-## ACESSO VIA PYTHON: 
+### ACESSO VIA PYTHON: 
 
 O acesso via Python deve ser realizado da seguinte forma após extrair o conteúdo do arquivo: 
 
@@ -73,7 +73,7 @@ c) Abrir o arquivo "entertainment_center.py";
 d) Uma vez aberto o arquivo, clicar em "Run" e "Run Module", ou simplesmente apertar F5;
 e) O Python automaticamente abrirá o seu navegador com a página do Fresh Tomatoes Movie Trailer.
 
-## ACESSO DIRETO VIA COMPUTADOR - SEM PYTHON
+### ACESSO DIRETO VIA COMPUTADOR - SEM PYTHON
 
 Caso o usuário não tenha o Python instalado em seu computador, deverá seguir as seguintes 
 instruções após efetuar o download do arquivo e extraí-lo para uma pasta desejada dentro de seu
