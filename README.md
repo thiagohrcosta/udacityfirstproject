@@ -3,7 +3,7 @@ Instituição: Udacity
 Curso: NanoDegree - Desenvolvimento Web Full Stack
 Autor: Thiago H.R. Costa - 2018 
 
-============================>>>RESUMO<<<=========================================
+## RESUMO
 Primeiro projeto apresentado no Curso NanoDegree - Desenvolvimento Web da Udacity, o presente
 site, foi desenvolvido incrementando os requisitos originalmente fixados pela Udacity para a
 elaboração do projeto, tendo como base a permissão para que o aluno pudesse desenvolver suas
