@@ -64,6 +64,7 @@ Após revisão do código os arquivos foram alterados da seguinte forma:
 1. Adequação ao formato PEP8 (http://pep8online.com/checkresult) dos arquivos "media.py" e "enterntainment_center.py";
 2. Adição do conteúdo da **class Movie (movie_storyline)** no código HTML inserido dentro de "fresh_tomatoes.py" de forma que o conteúdo da classe fosse adicionado logo abaixo do nome do filme. Utilizou-se a função **"format"** para manipular string e inserir tal recurso.
 3. Demais alterações estéticas no HTML de forma a adequar a estrutura da página com base nas novas mudanças.
+4. Elaboração do README em Markdown. 
 
 
 ## COMO UTILIZAR OU ABRIR O ARQUIVO
