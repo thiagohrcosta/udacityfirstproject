@@ -4,13 +4,13 @@ Curso: NanoDegree - Desenvolvimento Web Full Stack
 Autor: Thiago H.R. Costa - 2018 
 
 ## RESUMO
-Primeiro projeto apresentado no Curso NanoDegree - Desenvolvimento Web da Udacity, o presente
+Primeiro projeto apresentado no **Curso NanoDegree - Desenvolvimento Web da Udacity**, o presente
 site, foi desenvolvido incrementando os requisitos originalmente fixados pela Udacity para a
 elaboração do projeto, tendo como base a permissão para que o aluno pudesse desenvolver suas
 próprias ideias.
 
 ## TECNOLOGIAS UTILIZADAS
-No desenvolvimento do presente projeto foram utilizadas as tecnologias: HTML, CSS e Python. Igualmente utilizou-se o Photoshop para o tratamento breve da imagem de logo. 
+No desenvolvimento do presente projeto foram utilizadas as tecnologias: **HTML, CSS e Python**. Igualmente utilizou-se o Photoshop para o tratamento breve da imagem de logo. 
 
 ## O QUE FOI ADICIONADO? 
 O conteúdo original não continha menu, slide ou rodapé, desta forma, fora acrescentado no 
