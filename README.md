@@ -23,40 +23,40 @@ arquivo media.py de forma a suportar os dados apresentados na página principal.
 
 ### ALTERAÇÕES NA VERSÃO 1.0
 1. Body{
-	A cor do backround foi alterada para preto no html;
+    A cor do backround foi alterada para preto no html;
 
 2. .movie-title{
-	Foi inserido o comando ''color:white'' para criar contraste com o novo background 
-	definido no body;
+    Foi inserido o comando ''color:white'' para criar contraste com o novo background 
+    definido no body;
 
 3. Logo
-	Foi adicionada uma imagem ''logo.png'' como logo do site, alterando o conteúdo de 
-	texto original por uma imagem .png hospedada na pasta interna /img. 
+    Foi adicionada uma imagem ''logo.png'' como logo do site, alterando o conteúdo de 
+    texto original por uma imagem .png hospedada na pasta interna /img. 
 
 4. Menu
-	O projeto original não exigia menu. Neset projeto contudo, foi adicionado um menu
-	simples, usando listas não ordenadas para criar os menus #TV Show Trailer, #Netflix
-	Original Trailer, #Amazon Prime Trailer, #Login.
-	Estes quatro menus são apenas para propósitos visuais, não possuem código atrelado.
-	O ''search'' também foi inserido, mas assim como os quatro menus acima, não possui
-	qualquer código atrelado, sendo apenas para efeitos de ''front-end'' e visuais.
+    O projeto original não exigia menu. Neset projeto contudo, foi adicionado um menu
+    simples, usando listas não ordenadas para criar os menus #TV Show Trailer, #Netflix
+    Original Trailer, #Amazon Prime Trailer, #Login.
+    Estes quatro menus são apenas para propósitos visuais, não possuem código atrelado.
+    O ''search'' também foi inserido, mas assim como os quatro menus acima, não possui
+    qualquer código atrelado, sendo apenas para efeitos de ''front-end'' e visuais.
 
 5. Pasta /img
-	Para suportar a inserção do logo e do slide carousel, foi criada uma pasta /img
-	vinculada ao arquivo HTML de forma que o arquivo possa buscar as imagens na pasta
-	("img src="") e exibí-las em sua página. 	
+    Para suportar a inserção do logo e do slide carousel, foi criada uma pasta /img
+    vinculada ao arquivo HTML de forma que o arquivo possa buscar as imagens na pasta
+    ("img src="") e exibí-las em sua página.    
 
 6. O slide Carousel
-	Foi inserido o slide para criar um efeito visual mais amigável no site. Sendo também
-	ajustado o "body{padding-top:}". Houve ma redução de 80px para 52px;
+    Foi inserido o slide para criar um efeito visual mais amigável no site. Sendo também
+    ajustado o "body{padding-top:}". Houve ma redução de 80px para 52px;
 
 7. Footer
-	Foi criado um footer com o nome do autor deste projeto, informação sobre o curso e 
-	instituição vinculada. 
+    Foi criado um footer com o nome do autor deste projeto, informação sobre o curso e 
+    instituição vinculada. 
 
 8. Autor
-	Thiago H.R. Costa - Criado em 19/11/2018 como primeiro projeto para o curso da Udacity
-	NanoDegree de Desenvolvimento Web Full Stack
+    Thiago H.R. Costa - Criado em 19/11/2018 como primeiro projeto para o curso da Udacity
+    NanoDegree de Desenvolvimento Web Full Stack
 
 ### ALTERAÇÕES SIGNIFICATIVAS - VERSÃO 1.1
 Após revisão do código os arquivos foram alterados da seguinte forma:
